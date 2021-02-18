@@ -3,7 +3,7 @@ OMR Grading Script based on OpenCV
 
 
 To use it  :
-command line - python OMR-Grading.py --image image/test.jpg
+``` python OMR-Grading.py --image image/test.jpg```
 
 
 - Work to be done
